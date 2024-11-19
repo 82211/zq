@@ -106,33 +106,27 @@
       }
     },
     {
-      "key": "夸克木偶弹幕",
-      "name": "🌞木偶｜资源",
+      "key": "Mogg",
+      "name": "🌞木偶|哥哥",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./摸鱼lib/danmu.php",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "http://mogg.小胡.top",
-        "danmu": true
-      }
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$MOGG"
     },
     {
-			"key": "hipy_js_影探4K",
-			"name": "影探｜4K",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./lib/影探.js"
-		},
+      "key": "hipy_js_影探4K",
+      "name": "影探｜4K",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/影探.js"	
+    },
     {
       "key": "企鹅崽崽",
       "name": "🐧企鹅｜崽崽",
@@ -275,6 +269,13 @@
             "timeout": 10
     },
     {
+      "key": "天天",
+      "name": "天天┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "ext": "http://op.ysdqjs.cn$$$null$$$1"
+    },
+    {
       "key": "hipy_js_4k剧院",
       "name": "4k剧院｜(磁力)",
       "type": 3,
@@ -363,20 +364,15 @@
       }
     },
     {
-      "key": "夸克蜡笔弹幕",
-      "name": "🖍︎蜡笔┃4K弹幕",
+      "key": "蜡笔网盘",
+      "name": "蜡笔|网盘",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./摸鱼lib/danmu.php",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "http://labipan.com/",
-        "danmu": true
-      }
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
     },
     {
       "key": "夸克至臻弹幕",
@@ -474,6 +470,21 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
+      }
+    },
+    {
+      "key": "Panta",
+      "name": "盘Ta|网盘",
+      "type": 3,
+      "api": "csp_Panta",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
       }
     },
     {
