@@ -88,7 +88,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 120,
-      "ext": "./pg本地/tokenm.json$$$./pg调用/115share.txt$$$db$$$1",
+      "ext": "./pg本地/tokenm.json$$$./pg本地/115share.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
