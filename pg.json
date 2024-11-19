@@ -329,16 +329,6 @@
       "ext": "./磁力/布谷TV.json"
     },
     {
-      "key": "alllive",
-      "name": "📽️直播┃平台",
-      "type": 3,
-      "api": "csp_Alllive",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "配置中心",
       "name": "🌎高级｜设置",
       "type": 3,
@@ -415,23 +405,6 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "https://mihdr.top",
-        "danmu": true
-      }
-    },
-    {
-      "key": "夸克云星弹幕",
-      "name": "☁️云星┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./摸鱼lib/danmu.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://4k.4u4.cn",
         "danmu": true
       }
     },
