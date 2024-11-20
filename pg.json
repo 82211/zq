@@ -614,6 +614,15 @@
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "SAO0",
+      "type": 0,
+      "url": "http://我不是.摸鱼儿.com/live.php",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
       "name": "备用IPV6",
       "type": 0,
       "url": "http://www.iptv6.icu:5212/f/mPLia/mytv.txt"
