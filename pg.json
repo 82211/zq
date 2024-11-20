@@ -614,6 +614,11 @@
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "备用IPV6",
+      "type": 0,
+      "url": "http://www.iptv6.icu:5212/f/mPLia/mytv.txt"
+    },
+    {
       "group": "redirect",
       "channels": [
         {
