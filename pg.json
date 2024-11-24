@@ -115,12 +115,12 @@
       "key": "hipy_js_影探4K",
       "name": "影探｜4K",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./摸鱼lib/apiv205drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/影探.js"	
+      "ext": "./影/影探.js"	
     },
     {
       "key": "企鹅崽崽",
