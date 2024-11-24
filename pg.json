@@ -230,17 +230,6 @@
       "filterable": 1
     },
     {
-      "key": "文采",
-      "name": "文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "./lib/fty.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "笔触琉璃",
       "name": "笔触┃琉璃",
       "type": 3,
@@ -257,13 +246,6 @@
                 "cookie": "file://tvbox/bilibili.txt"
             },
             "timeout": 10
-    },
-    {
-      "key": "天天",
-      "name": "天天┃影视",
-      "type": 3,
-      "api": "csp_TTian",
-      "ext": "http://op.ysdqjs.cn$$$null$$$1"
     },
     {
       "key": "hipy_js_4k剧院",
