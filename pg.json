@@ -85,24 +85,8 @@
       "ext": "./pg本地/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./pg本地/wogg.json$$$WOGG"
     },
     {
-      "key": "玩.偶",
-      "name": "🌎玩偶｜智能",
-      "type": 3,
-      "api": "csp_WoGG",
-      "jar": "./摸鱼lib/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "TVBox/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-    },
-    {
       "key": "Mogg",
-      "name": "🌞木偶|哥哥",
+      "name": "木偶|哥哥",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -124,7 +108,7 @@
     },
     {
       "key": "企鹅崽崽",
-      "name": "🐧企鹅｜崽崽",
+      "name": "企鹅｜崽崽",
       "type": 3,
       "api": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/smdy.js",
       "style": {
@@ -135,7 +119,7 @@
     },
     {
       "key": "醉挽清风",
-      "name": "🌀醉挽｜清风",
+      "name": "醉挽｜清风",
       "type": 3,
       "api": "./摸鱼lib/apiv205drpy.min.js",
       "searchable": 1,
@@ -146,7 +130,7 @@
     },
     {
       "key": "月惜花晨",
-      "name": "🌙月惜｜花晨",
+      "name": "月惜｜花晨",
       "type": 3,
       "api": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/smdy.js",
       "style": {
@@ -157,7 +141,7 @@
     },
     {
       "key": "小满万全",
-      "name": "🌀小满｜万全",
+      "name": "小满｜万全",
       "type": 3,
       "api": "./摸鱼lib/apiv205drpy.min.js",
       "searchable": 1,
@@ -169,7 +153,7 @@
     },
     {
       "key": "摸鱼瓜子",
-      "name": "🌀瓜子｜2K弹",
+      "name": "瓜子｜2K弹",
       "type": 3,
       "api": "./摸鱼lib/apiv205drpy.min.js",
       "filterable": 1,
@@ -179,7 +163,7 @@
     },
     {
       "key": "真心影视",
-      "name": "❤️真心┃纯净",
+      "name": "真心┃纯净",
       "type": 3,
       "api": "csp_WebGZ",
       "jar": "./摸鱼lib/danmu.php",
@@ -189,7 +173,7 @@
     },
     {
       "key": "文才弹幕",
-      "name": "💮文采┃弹幕",
+      "name": "文采┃弹幕",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "./摸鱼lib/danmu.php",
@@ -202,7 +186,7 @@
     },
     {
       "key": "凡人影视",
-      "name": "🤡凡人┃弹幕",
+      "name": "凡人┃弹幕",
       "type": 3,
       "api": "csp_AppFr",
       "jar": "./摸鱼lib/danmu.php",
@@ -212,7 +196,7 @@
     },
     {
       "key": "荐片弹幕",
-      "name": "👍️荐片┃弹幕",
+      "name": "荐片┃弹幕",
       "type": 3,
       "api": "csp_Jianpian",
       "jar": "./摸鱼lib/danmu.php",
@@ -226,7 +210,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "🍉瓜子┃纯净",
+      "name": "瓜子┃纯净",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "./摸鱼lib/danmu.php",
@@ -236,7 +220,7 @@
     },
     {
       "key": "文采",
-      "name": "💮文采┃秒播",
+      "name": "文采┃秒播",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "./lib/fty.jar",
@@ -247,7 +231,7 @@
     },
     {
       "key": "笔触琉璃",
-      "name": "❤️笔触┃琉璃",
+      "name": "笔触┃琉璃",
       "type": 3,
       "api": "csp_Bilimd",
       "jar": "./摸鱼lib/danmu.php",
@@ -305,7 +289,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "🐼️┃电视┃直播",
+      "name": "┃电视┃直播",
       "type": 3,
       "searchable": 0,
       "api": "./pg本地/live2vod.js",
@@ -326,8 +310,24 @@
       }
     },
     {
+      "key": "玩.偶",
+      "name": "玩偶｜智能",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "./摸鱼lib/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "TVBox/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },
+    {
       "key": "玩偶备用弹幕",
-      "name": "🌎玩偶┃备用",
+      "name": "玩偶┃备用",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "./摸鱼lib/danmu.php",
@@ -344,7 +344,7 @@
     },
     {
       "key": "夸克多多弹幕",
-      "name": "🍥多多┃4K弹幕",
+      "name": "多多┃4K弹幕",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./摸鱼lib/danmu.php",
@@ -359,19 +359,8 @@
       }
     },
     {
-      "key": "蜡笔网盘",
-      "name": "蜡笔|网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
-    },
-    {
       "key": "夸克至臻弹幕",
-      "name": "🏆️至臻┃4K弹幕",
+      "name": "至臻┃4K弹幕",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./摸鱼lib/danmu.php",
@@ -385,6 +374,17 @@
         "site": "https://mihdr.top",
         "danmu": true
       }
+    },
+    {
+      "key": "蜡笔网盘",
+      "name": "蜡笔|网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
     },
     {
       "key": "小米网盘",
@@ -429,7 +429,7 @@
     },
     {
       "key": "QuarkPanso",
-      "name": "夸克盘搜|夸克搜索",
+      "name": "夸克|盘搜",
       "type": 3,
       "api": "csp_QuarkPanso",
       "quickSearch": 1,
@@ -449,6 +449,26 @@
       "api": "csp_HunHePan",
       "timeout": 60,
       "ext": "./pg本地/tokenm.json",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "盘友圈",
+      "name": "盘友圈|搜索",
+      "type": 3,
+      "api": "csp_Panyq",
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$site$$$proxy"
+    },
+    {
+      "key": "易搜",
+      "name": "易搜|网盘",
+      "type": 3,
+      "api": "csp_YiSo",
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$./lib/yiso.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
