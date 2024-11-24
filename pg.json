@@ -16,7 +16,7 @@
     },
     {
       "key": "TGDouban",
-      "name": "TG豆瓣",
+      "name": "TG|豆瓣",
       "type": 3,
       "api": "csp_TGDouban",
       "timeout": 120,
@@ -38,7 +38,7 @@
     },
     {
       "key": "TGYunPan",
-      "name": "TG群组搜索",
+      "name": "TG|群组",
       "type": 3,
       "api": "csp_TGYunPan",
       "timeout": 120,
@@ -59,7 +59,7 @@
     },
     {
       "key": "115Share",
-      "name": "115云盘分享",
+      "name": "115|云盘",
       "type": 3,
       "api": "csp_P115Share",
       "searchable": 1,
