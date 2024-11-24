@@ -96,6 +96,17 @@
       "ext": "./pg本地/tokenm.json$$$http://mogg.小胡.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$MOGG"
     },
     {
+      "key": "小米网盘",
+      "name": "小米|网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
+    },
+    {
       "key": "hipy_js_影探4K",
       "name": "影探｜4K",
       "type": 3,
@@ -110,12 +121,12 @@
       "key": "企鹅崽崽",
       "name": "企鹅｜崽崽",
       "type": 3,
-      "api": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/smdy.js",
+      "api": "http://ovo.smdyo.top/libs/drpy2.min.js",
       "style": {
         "type": "rect",
         "ratio": 0.65
       },
-      "ext": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/wj/企鹅崽崽.js"
+      "ext": "http://ovo.smdyo.top/js/qezz.js"
     },
     {
       "key": "醉挽清风",
@@ -132,12 +143,12 @@
       "key": "月惜花晨",
       "name": "月惜｜花晨",
       "type": 3,
-      "api": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/smdy.js",
+      "api": "http://ovo.smdyo.top/libs/drpy2.min.js",
       "style": {
         "type": "rect",
         "ratio": 0.65
       },
-      "ext": "https://git.acwing.com/smdy/tvbox/-/raw/main/js/月惜花晨.js"
+      "ext": "http://ovo.smdyo.top/js/yxhc.js"
     },
     {
       "key": "小满万全",
@@ -398,17 +409,6 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
-    },
-    {
-      "key": "小米网盘",
-      "name": "小米|网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
     },
     {
       "key": "Xpanpan",
