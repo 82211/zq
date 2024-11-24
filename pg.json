@@ -8,7 +8,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./pg本地/tokenm.json",
+      "ext": "http://127.0.0.1:9978/file/TVB/token.txt",
       "style": {
         "type": "rect",
         "ratio": 1.5
