@@ -249,7 +249,7 @@
     },
     {
       "key": "天天",
-      "name": "天天┃App",
+      "name": "天天┃影视",
       "type": 3,
       "api": "csp_TTian",
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
@@ -399,7 +399,7 @@
     },
     {
       "key": "Xpanpan",
-      "name": "小盘盘|网盘",
+      "name": "小盘|网盘",
       "type": 3,
       "api": "csp_Xpanpan",
       "quickSearch": 1,
@@ -414,7 +414,7 @@
     },
     {
       "key": "Funletu",
-      "name": "趣盘搜|夸克",
+      "name": "趣盘|夸克",
       "type": 3,
       "api": "csp_Funletu",
       "quickSearch": 1,
@@ -444,7 +444,7 @@
     },
     {
       "key": "混合盘",
-      "name": "混合盘|搜索",
+      "name": "混合|搜索",
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 60,
@@ -456,7 +456,7 @@
     },
     {
       "key": "盘友圈",
-      "name": "盘友圈|搜索",
+      "name": "盘友|搜索",
       "type": 3,
       "api": "csp_Panyq",
       "timeout": 60,
