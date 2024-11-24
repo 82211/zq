@@ -74,20 +74,15 @@
       }
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "key": "Wogg",
+      "name": "玩偶|哥哥",
       "type": 3,
-      "api": "csp_WoGG",
-      "jar": "./lib/fty.jar",
-      "searchable": 1,
+      "api": "csp_Wogg",
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./pg本地/wogg.json$$$WOGG"
     },
     {
       "key": "玩.偶",
@@ -352,7 +347,7 @@
       "name": "🍥多多┃4K弹幕",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "https://ghp.ci/https://github.com/82211/xz/blob/main/摸鱼lib/danmu.php",
+      "jar": "./摸鱼lib/danmu.php",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -392,84 +387,71 @@
       }
     },
     {
-      "key": "米搜",
-      "name": "🦋米盘┃搜搜",
+      "key": "小米网盘",
+      "name": "小米|网盘",
       "type": 3,
-      "api": "csp_MIPanSo",
-      "jar": "./lib/fty.jar",
-      "searchable": 1,
+      "api": "csp_Wobg",
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
+    },
+    {
+      "key": "Xpanpan",
+      "name": "小盘盘|网盘",
+      "type": 3,
+      "api": "csp_Xpanpan",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
       }
     },
     {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
+      "key": "Funletu",
+      "name": "趣盘搜|夸克",
       "type": 3,
-      "api": "csp_KkSs",
-      "jar": "./lib/fty.jar",
-      "searchable": 1,
+      "api": "csp_Funletu",
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
       }
     },
     {
-      "key": "Sso",
-      "name": "🐌盘他┃三盘",
+      "key": "QuarkPanso",
+      "name": "夸克盘搜|夸克搜索",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/盘他.js",
-      "searchable": 1,
+      "api": "csp_QuarkPanso",
       "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "夸搜",
-      "name": "🐟夸搜┃狸夸",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar": "./lib/fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "pan": "quark",
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
       }
     },
     {
-      "key": "YiSo",
-      "name": "😹易搜┃阿狸",
+      "key": "混合盘",
+      "name": "混合盘|搜索",
       "type": 3,
-      "api": "csp_YiSo",
-	"jar": "./lib/fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃阿狸",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar": "./lib/fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
+      "api": "csp_HunHePan",
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
       }
     },
     {
@@ -486,22 +468,7 @@
         "type": "list",
         "ratio": 1.1
       }
-    },
-    {
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./lib/fty.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/bilibili.json"
-    }
+    }    
   ],
   "parses": [
     {
