@@ -104,12 +104,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": {
-        "token": "./pg本地/tokenm.json",
-        "cookie": "./pg本地/tokenm.json",
-        "site": "https://tv.yydsys.top",
-        "danmu": true
-      }
+      "ext": "./pg本地/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./pg本地/wogg.json$$$WNLG"
     },
     {
       "key": "hipy_js_影探4K",
