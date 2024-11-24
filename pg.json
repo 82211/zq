@@ -362,7 +362,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json",
+      "ext": "http://127.0.0.1:9978/file/TVB/token.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
