@@ -173,45 +173,11 @@
       "ext": "./摸鱼lib/guazi.js"
     },
     {
-      "key": "真心影视",
-      "name": "真心┃纯净",
-      "type": 3,
-      "api": "csp_WebGZ",
-      "jar": "./摸鱼lib/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "文才弹幕",
       "name": "文采┃弹幕",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "./摸鱼lib/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "凡人影视",
-      "name": "凡人┃弹幕",
-      "type": 3,
-      "api": "csp_AppFr",
-      "jar": "./摸鱼lib/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "荐片弹幕",
-      "name": "荐片┃弹幕",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "./摸鱼lib/danmu.php",
-      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -249,7 +215,7 @@
     },
     {
       "key": "hipy_js_4k剧院",
-      "name": "4k剧院｜(磁力)",
+      "name": "4k剧院｜磁力",
       "type": 3,
       "api": "./磁力/lan.js",
       "searchable": 1,
@@ -260,7 +226,7 @@
     },
     {
       "key": "hipy_js_4khdr",
-      "name": "4khdr｜(磁力)",
+      "name": "4khdr｜磁力",
       "type": 3,
       "api": "./磁力/lan.js",
       "searchable": 1,
@@ -271,7 +237,7 @@
     },
     {
       "key": "布谷TV",
-      "name": "布谷TV｜磁力",
+      "name": "布谷｜磁力",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./磁力/spider.jar",
@@ -282,7 +248,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "┃电视┃直播",
+      "name": "电视┃直播",
       "type": 3,
       "searchable": 0,
       "api": "./pg本地/live2vod.js",
@@ -350,7 +316,7 @@
     },
     {
       "key": "夸克至臻弹幕",
-      "name": "至臻┃4K弹幕",
+      "name": "至臻┃4K",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./摸鱼lib/danmu.php",
@@ -388,40 +354,10 @@
       "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
     },
     {
-      "key": "Xpanpan",
-      "name": "小盘|网盘",
-      "type": 3,
-      "api": "csp_Xpanpan",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
-    {
       "key": "Funletu",
       "name": "趣盘|夸克",
       "type": 3,
       "api": "csp_Funletu",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./pg本地/tokenm.json",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
-    {
-      "key": "QuarkPanso",
-      "name": "夸克|盘搜",
-      "type": 3,
-      "api": "csp_QuarkPanso",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -439,26 +375,6 @@
       "api": "csp_HunHePan",
       "timeout": 60,
       "ext": "./pg本地/tokenm.json",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
-    {
-      "key": "盘友圈",
-      "name": "盘友|搜索",
-      "type": 3,
-      "api": "csp_Panyq",
-      "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$site$$$proxy"
-    },
-    {
-      "key": "易搜",
-      "name": "易搜|网盘",
-      "type": 3,
-      "api": "csp_YiSo",
-      "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$./lib/yiso.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
