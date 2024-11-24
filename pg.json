@@ -96,15 +96,15 @@
       "ext": "./pg本地/tokenm.json$$$http://mogg.小胡.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$MOGG"
     },
     {
-      "key": "小米网盘",
-      "name": "小米|网盘",
+      "key": "yydsys",
+      "name": "多多|玩你",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"
     },
     {
       "key": "hipy_js_影探4K",
@@ -367,22 +367,6 @@
       }
     },
     {
-      "key": "夸克多多弹幕",
-      "name": "多多┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./摸鱼lib/danmu.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "https://tv.yydsys.top",
-        "danmu": true
-      }
-    },
-    {
       "key": "夸克至臻弹幕",
       "name": "至臻┃4K弹幕",
       "type": 3,
@@ -398,6 +382,17 @@
         "site": "https://mihdr.top",
         "danmu": true
       }
+    },
+    {
+      "key": "小米网盘",
+      "name": "小米|网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
     },
     {
       "key": "蜡笔网盘",
