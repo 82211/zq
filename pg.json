@@ -3,7 +3,7 @@
 	"sites":[
     {
       "key": "网盘配置",
-      "name": "TG搜索115|配置中心",
+      "name": "PG|配置中心",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
