@@ -394,8 +394,14 @@
         "type": "list",
         "ratio": 1.1
       } 
+    }
   ],
   "parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
     {
       "name": "小米4k",
       "type": 1,
