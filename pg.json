@@ -107,25 +107,14 @@
       "ext": "./pg本地/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./pg本地/wogg.json$$$WNLG"
     },
     {
-      "key": "hipy_js_影探4K",
-      "name": "影探｜4K",
+      "key": "企鹅崽崽",
+      "name": "企鹅|崽崽",
       "type": 3,
-      "api": "./摸鱼lib/apiv205drpy.min.js",
+      "api": "http://ovo.smdyo.top/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./影/影探.js"	
-    },
-    {
-      "key": "企鹅崽崽",
-      "name": "企鹅｜崽崽",
-      "type": 3,
-      "api": "http://ovo.smdyo.top/libs/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 0.65
-      },
       "ext": "http://ovo.smdyo.top/js/qezz.js"
     },
     {
@@ -140,14 +129,25 @@
       "ext": "./摸鱼lib/qingfeng.js"
     },
     {
-      "key": "月惜花晨",
-      "name": "月惜｜花晨",
+      "key": "影探视频",
+      "name": "影探|视频",
       "type": 3,
       "api": "http://ovo.smdyo.top/libs/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 0.65
-      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://ovo.smdyo.top/js/ytsp.js"
+    },
+    {
+      "key": "月惜花晨",
+      "name": "月惜|花晨",
+      "type": 3,
+      "api": "http://ovo.smdyo.top/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
       "ext": "http://ovo.smdyo.top/js/yxhc.js"
     },
     {
@@ -393,55 +393,11 @@
       "style": {
         "type": "list",
         "ratio": 1.1
-      }
-    }    
-  ],
-  "parses": [
-    {
-      "name": "小米4k",
-      "type": 1,
-      "url": "https://jx.xiaofengtv.com/jx.php?url="
-    },
-    {
-      "name": "芒果4k",
-      "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url="
-    },
-    {
-      "name": "摸鱼4k",
-      "type": 1,
-      "url": "http://110.40.61.139:4655/zhuimi666.php?url="
-    },
-    {
-      "name": "高清备用",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
+      } 
     }
   ],
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
-		"lives":[
+  "lives":[
     {
       "name": "肥羊国内直播",
       "type": 0,
@@ -745,7 +701,50 @@
       ]
     }
   ],
-  "parses": [],
+  "parses": [
+    {
+      "name": "小米4k",
+      "type": 1,
+      "url": "https://jx.xiaofengtv.com/jx.php?url="
+    },
+    {
+      "name": "芒果4k",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url="
+    },
+    {
+      "name": "摸鱼4k",
+      "type": 1,
+      "url": "http://110.40.61.139:4655/zhuimi666.php?url="
+    },
+    {
+      "name": "高清备用",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    }  
+  ],
   "flags": [
     "youku",
     "qq",
