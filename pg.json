@@ -488,50 +488,6 @@
       ]
     }
   ],
-  "parses": [
-    {
-      "name": "小米4k",
-      "type": 1,
-      "url": "https://jx.xiaofengtv.com/jx.php?url="
-    },
-    {
-      "name": "芒果4k",
-      "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url="
-    },
-    {
-      "name": "摸鱼4k",
-      "type": 1,
-      "url": "http://110.40.61.139:4655/zhuimi666.php?url="
-    },
-    {
-      "name": "高清备用",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    }
-  ],
   "doh": [
     {
       "name": "Google",
@@ -745,7 +701,50 @@
       ]
     }
   ],
-  "parses": [],
+  "parses": [
+    {
+      "name": "小米4k",
+      "type": 1,
+      "url": "https://jx.xiaofengtv.com/jx.php?url="
+    },
+    {
+      "name": "芒果4k",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url="
+    },
+    {
+      "name": "摸鱼4k",
+      "type": 1,
+      "url": "http://110.40.61.139:4655/zhuimi666.php?url="
+    },
+    {
+      "name": "高清备用",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    }  
+  ],
   "flags": [
     "youku",
     "qq",
