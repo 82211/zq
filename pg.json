@@ -96,28 +96,6 @@
       "ext": "./pg本地/tokenm.json$$$http://mogg.小胡.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$MOGG"
     },
     {
-      "key": "yydsys",
-      "name": "多多|玩你",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./pg本地/wogg.json$$$WNLG"
-    },
-    {
-      "key": "企鹅崽崽",
-      "name": "企鹅|崽崽",
-      "type": 3,
-      "api": "http://ovo.smdyo.top/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://ovo.smdyo.top/js/qezz.js"
-    },
-    {
       "key": "醉挽清风",
       "name": "醉挽｜清风",
       "type": 3,
@@ -127,28 +105,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./摸鱼lib/qingfeng.js"
-    },
-    {
-      "key": "影探视频",
-      "name": "影探|视频",
-      "type": 3,
-      "api": "http://ovo.smdyo.top/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://ovo.smdyo.top/js/ytsp.js"
-    },
-    {
-      "key": "月惜花晨",
-      "name": "月惜|花晨",
-      "type": 3,
-      "api": "http://ovo.smdyo.top/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://ovo.smdyo.top/js/yxhc.js"
     },
     {
       "key": "小满万全",
