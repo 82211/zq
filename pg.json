@@ -121,7 +121,7 @@
       "key": "醉挽清风",
       "name": "醉挽｜清风",
       "type": 3,
-      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+      "api": ""./摸鱼lib/apiv205drpy.min.j",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -154,7 +154,7 @@
       "key": "小满万全",
       "name": "小满｜万全",
       "type": 3,
-      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+      "api": ""./摸鱼lib/apiv205drpy.min.j",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -393,8 +393,7 @@
       "style": {
         "type": "list",
         "ratio": 1.1
-      }
-    }    
+      } 
   ],
   "parses": [
     {
@@ -441,7 +440,7 @@
     }
   ],
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
-		"lives":[
+  "lives":[
     {
       "name": "肥羊国内直播",
       "type": 0,
