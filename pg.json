@@ -96,6 +96,17 @@
       "ext": "./pg本地/tokenm.json$$$http://mogg.小胡.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$MOGG"
     },
     {
+      "key": "yydsys",
+      "name": "多多|老哥",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$WNLG"
+    },
+    {
       "key": "醉挽清风",
       "name": "醉挽｜清风",
       "type": 3,
