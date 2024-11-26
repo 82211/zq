@@ -163,6 +163,29 @@
       "filterable": 1
     },
     {
+      "key": "真心影视",
+      "name": "真心┃纯净",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "jar": "./摸鱼lib/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小苹果弹幕",
+      "name": "苹果┃弹幕",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": "./摸鱼lib/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
       "key": "笔触琉璃",
       "name": "笔触┃琉璃",
       "type": 3,
