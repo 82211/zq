@@ -708,19 +708,9 @@
   ],
   "parses": [
     {
-      "name": "小米4k",
-      "type": 1,
-      "url": "https://jx.xiaofengtv.com/jx.php?url="
-    },
-    {
       "name": "失眠4k",
       "type": 1,
-      "url": "http://154.9.253.211:777/api/?key=qF6pwBaRCl3fNxvc0j&url="
-    },
-    {
-      "name": "芒果4k",
-      "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url="
+      "url": "http://154.9.253.211:777/api/?key=lWhwMgQna1QmmI9501&url="
     },
     {
       "name": "摸鱼4k",
@@ -728,9 +718,9 @@
       "url": "http://110.40.61.139:4655/zhuimi666.php?url="
     },
     {
-      "name": "高清备用",
+      "name": "芒果4k",
       "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
