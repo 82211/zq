@@ -287,23 +287,8 @@
       }
     },
     {
-      "key": "玩.偶",
-      "name": "玩偶┃智能",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "TVBox/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-    },
-    {
       "key": "玩偶备用弹幕",
-      "name": "玩偶┃备用",
+      "name": "玩偶┃智能",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "./摸鱼lib/danmu.php",
