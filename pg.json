@@ -722,19 +722,14 @@
   ],
   "parses": [
     {
-      "name": "失眠4k",
+      "name": "失眠内部4k",
       "type": 1,
-      "url": "http://154.9.253.211:777/api/?key=lWhwMgQna1QmmI9501&url="
+      "url": "https://jk.123zy.cool/jx/jx.php?url="
     },
     {
       "name": "摸鱼4k",
       "type": 1,
       "url": "http://110.40.61.139:4655/zhuimi666.php?url="
-    },
-    {
-      "name": "失眠内部4k",
-      "type": 1,
-      "url": "https://jk.123zy.cool/jx/jx.php?url="
     },
     {
       "name": "芒果4k",
