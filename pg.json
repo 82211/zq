@@ -735,7 +735,13 @@
       "name": "高清",
       "type": 0,
       "url": "https://www.8090g.cn/jiexi/?url="
-    },{
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+   },
+    {
       "name": "虾米高清",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
