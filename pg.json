@@ -151,16 +151,16 @@
         "prefix": "Vjg339EykTqCGOzkWu38CGyBHHEtp7snRpwV7kGvMmk="
       }
     },
-     {
-       "key": "ygcl",
-       "name": "影港|4K",
-        "type": 3,
-        "api": "csp_XYQHiker",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "./影/影港.json",
-        "jar": "./影/nx4.jar"
+    {
+      "key": "ygcl",
+      "name": "影港|4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./影/影港.json",
+      "jar": "./影/nx4.jar"
     },
     {
       "key": "醉挽清风",
