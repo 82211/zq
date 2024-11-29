@@ -5,7 +5,7 @@
     //规则名
     "title": "电影港",
     //作者
-    "author": "清风",
+    "author": "蝉鸣",
     //请求头UA,键名$键值，每一组用#分开，不填则默认okhttp/3.12.11，可填MOBILE_UA或PC_UA使用内置的手机版或电脑版UA
     //多个请求头参数写法示例，"User-Agent$PC_UA#Referer$http://ww.baidu.com#Cookie$ser=ok",每一组用#分开。
     //习惯查看手机源码写建议用手机版UA，习惯查看PC版源码写建议用电脑版UA
@@ -21,7 +21,7 @@
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
     "class_url": "https://www.dygang.tv/{cateId}/index_{catePg}.htm[firstPage=https://www.dygang.cc/{cateId}/index.htm]",
     //分类名，分类1&分类2&分类3
-    "class_name": "清风电影&清风高清&清风电影&清风港片&清风国剧&清风日韩剧&清风美剧&清风综艺&清风动漫&清风纪录片&清风高清&清风4K&清风3D&清风专题",
+    "class_name": "蝉鸣电影&蝉鸣高清&蝉鸣电影&蝉鸣港片&蝉鸣国剧&蝉鸣日韩剧&蝉鸣美剧&蝉鸣综艺&蝉鸣动漫&蝉鸣纪录片&蝉鸣高清&蝉鸣4K&蝉鸣3D&蝉鸣专题",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
     "class_value": "ys&bd&gy&gp&dsj&dsj1&yx&zy&dmq&jilupian&1080p&4K&3d&dyzt",
     //筛选数据，json格式，参考xpath的筛选写法
