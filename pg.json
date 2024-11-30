@@ -152,17 +152,6 @@
       }
     },
     {
-      "key": "ygcl",
-      "name": "影港|4K",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./影/影港.json",
-      "jar": "./影/nx4.jar"
-    },
-    {
       "key": "醉挽清风",
       "name": "醉挽|清风",
       "type": 3,
@@ -194,6 +183,17 @@
       "order_num": 0,
       "changeable": 0,
       "ext": "./摸鱼lib/guazi.js"
+    },
+    {
+      "key": "ygcl",
+      "name": "影港|4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./影/影港.json",
+      "jar": "./影/nx4.jar"
     },
     {
       "key": "文才弹幕",
