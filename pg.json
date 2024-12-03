@@ -440,7 +440,7 @@
     },
     {
       "key": "Funletu",
-      "name": "趣盘|夸克",
+      "name": "夸克|盘搜",
       "type": 3,
       "api": "csp_Funletu",
       "quickSearch": 1,
