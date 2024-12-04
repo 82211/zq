@@ -19,7 +19,7 @@
       "name": "天逸|配置",
       "type": 3,
       "api": "csp_Wexconfig",
-      "jar": "./pg本地/天逸调用/wex.jar",
+      "jar": "./天逸调用/wex.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0
@@ -121,9 +121,18 @@
       "name": "雷鲸|4k",
       "type": 3,
       "api": "csp_Wexleijing",
-       "jar": "./pg本地/天逸调用/wex.jar",
+       "jar": "./天逸调用/wex.jar",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "Wextyso",
+      "name": "天逸|4k",
+      "type": 3,
+      "api": "csp_Wextyso",
+       "jar": "./天逸调用/wex.jar",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "风中知秋",
@@ -407,15 +416,6 @@
         "type": "list",
         "ratio": 1.1
       }
-    },
-    {
-      "key": "Wextyso",
-      "name": "天逸|4k",
-      "type": 3,
-      "api": "csp_Wextyso",
-       "jar": "./pg本地/天逸调用/wex.jar",
-      "searchable": 1,
-      "changeable": 0
     },
     {
       "key": "混合盘",
