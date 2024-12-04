@@ -126,15 +126,6 @@
       "changeable": 1
     },
     {
-      "key": "Wextyso",
-      "name": "天逸|4k",
-      "type": 3,
-      "api": "csp_Wextyso",
-       "jar": "./天逸调用/wex.jar",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "风中知秋",
       "name": "知秋|解析",
       "type": 3,
@@ -401,6 +392,15 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
+    },
+    {
+      "key": "Wextyso",
+      "name": "天逸|4k",
+      "type": 3,
+      "api": "csp_Wextyso",
+       "jar": "./天逸调用/wex.jar",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "Funletu",
