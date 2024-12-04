@@ -797,14 +797,24 @@
   ],
   "parses": [
     {
-      "name": "失眠内部4k",
+      "name": "蝉鸣4k",
       "type": 1,
       "url": "https://jk.123zy.cool/jx/jx.php?url="
     },
     {
-      "name": "六趣解析",
+      "name": "六趣4k",
       "type": 1,
       "url": "https://jx.0v.fit/api.php?url="
+    },
+    {
+      "name": "腾芒4k",
+      "type": 1,
+      "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
+    },
+    {
+      "name": "全网4k",
+      "type": 1,
+      "url": "https://aikan-tv.com/tong.php?url="
     },
     {
       "name": "小米高清",
