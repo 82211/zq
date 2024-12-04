@@ -16,7 +16,7 @@
     },
     {
       "key": "Wexconfig",
-      "name": "王二|配置",
+      "name": "天逸|配置",
       "type": 3,
       "api": "csp_Wexconfig",
       "jar": "https://d.kstore.dev/download/11405/xzgi/大佬改王二/wex.jar",
@@ -96,7 +96,7 @@
     },
     {
       "key": "Mogg",
-      "name": "木偶|哥哥",
+      "name": "木偶|4k",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -107,7 +107,7 @@
     },
     {
       "key": "yydsys",
-      "name": "多多|老哥",
+      "name": "多多|4k",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -118,7 +118,7 @@
     },
     {
       "key": "雷鲸",
-      "name": "雷鲸|天逸",
+      "name": "雷鲸|4k",
       "type": 3,
       "api": "csp_Wexleijing",
       "jar": "https://d.kstore.dev/download/11405/xzgi/大佬改王二/wex.jar",
@@ -127,7 +127,7 @@
     },
     {
       "key": "风中知秋",
-      "name": "风中|知秋",
+      "name": "知秋|解析",
       "type": 3,
       "api": "csp_AppYsV3",
       "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
@@ -142,7 +142,7 @@
     },
     {
       "key": "炉火茶香",
-      "name": "炉火|茶香",
+      "name": "茶香|解析",
       "type": 3,
       "api": "csp_AppYsV3",
       "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
@@ -156,23 +156,8 @@
       }
     },
     {
-      "key": "知秋",
-      "name": "风中|知",
-      "type": 3,
-      "api": "csp_AppYsV3",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/zhiqiu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cmsApis": "UP4wckC350BpK3+jAtNI2bALiFmoKuT3saBr3tEJwib2fyd/xcLxfgaGGQQtWFUy",
-        "jxApi": "Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY",
-        "prefix": "Vjg339EykTqCGOzkWu38CGyBHHEtp7snRpwV7kGvMmk="
-      }
-    },
-    {
       "key": "醉挽清风",
-      "name": "醉挽|清风",
+      "name": "清风|腾腾",
       "type": 3,
       "api": "./摸鱼lib/apiv205drpy.min.js",
       "searchable": 1,
@@ -183,7 +168,7 @@
     },
     {
       "key": "小满万全",
-      "name": "小满|万全",
+      "name": "小满|果果",
       "type": 3,
       "api": "./摸鱼lib/apiv205drpy.min.js",
       "searchable": 1,
@@ -195,7 +180,7 @@
     },
     {
       "key": "guoguo",
-      "name": "果果|小米",
+      "name": "米芒|解析",
       "type": 3,
       "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar",
@@ -208,7 +193,7 @@
     },
     {
       "key": "drpyS_人人视频",
-      "name": "人人视频",
+      "name": "人人|视频",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/人人视频",
       "searchable": 1,
@@ -226,7 +211,7 @@
     },
     {
       "key": "csp_zhufan",
-      "name": "追饭|小米",
+      "name": "追饭|2k",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar",
       "searchable": 1,
       "quickSearch": 1,
@@ -252,7 +237,7 @@
     },
     {
       "key": "文才弹幕",
-      "name": "文采┃弹幕",
+      "name": "文采┃2k",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "./摸鱼lib/danmu.php",
@@ -265,7 +250,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子┃纯净",
+      "name": "瓜子┃2k",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "./摸鱼lib/danmu.php",
@@ -275,7 +260,7 @@
     },
     {
       "key": "真心影视",
-      "name": "真心┃纯净",
+      "name": "真心┃2k",
       "type": 3,
       "api": "csp_WebGZ",
       "jar": "./摸鱼lib/danmu.php",
@@ -285,7 +270,7 @@
     },
     {
       "key": "小苹果弹幕",
-      "name": "苹果┃弹幕",
+      "name": "苹果┃2k",
       "type": 3,
       "api": "csp_Xpg",
       "jar": "./摸鱼lib/danmu.php",
@@ -298,7 +283,7 @@
     },
     {
       "key": "笔触琉璃",
-      "name": "笔触┃琉璃",
+      "name": "琉璃┃哔哩",
       "type": 3,
       "api": "csp_Bilimd",
       "jar": "./摸鱼lib/danmu.php",
@@ -326,38 +311,8 @@
       "ext": "./磁力/4k剧院.js"
     },
     {
-      "key": "hipy_js_4khdr",
-      "name": "hdr|磁力",
-      "type": 3,
-      "api": "./磁力/lan.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./磁力/4khdr.js"
-    },
-    {
-      "key": "布谷TV",
-      "name": "布谷|磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./磁力/spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./磁力/布谷TV.json"
-    },
-    {
-      "key": "直播转点播",
-      "name": "电视┃直播",
-      "type": 3,
-      "searchable": 0,
-      "api": "./pg本地/live2vod.js",
-      "ext": "./pg本地/feimaolive.json"
-    },
-    {
       "key": "bili",
-      "name": "B站|blbl",
+      "name": "B站|全能",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -370,7 +325,7 @@
     },
     {
       "key": "配置中心",
-      "name": "🌎高级┃设置",
+      "name": "🌎摸鱼┃配置",
       "type": 3,
       "api": "csp_Config",
       "jar": "./摸鱼lib/danmu.php",
@@ -384,7 +339,7 @@
     },
     {
       "key": "玩偶备用弹幕",
-      "name": "玩偶┃智能",
+      "name": "玩偶┃4k",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "./摸鱼lib/danmu.php",
@@ -418,7 +373,7 @@
     },
     {
       "key": "小米网盘",
-      "name": "小米|网盘",
+      "name": "小米|4k",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -429,7 +384,7 @@
     },
     {
       "key": "蜡笔网盘",
-      "name": "蜡笔|网盘",
+      "name": "蜡笔|4k",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -440,7 +395,7 @@
     },
     {
       "key": "Funletu",
-      "name": "夸克|盘搜",
+      "name": "夸搜|4k",
       "type": 3,
       "api": "csp_Funletu",
       "quickSearch": 1,
@@ -455,7 +410,7 @@
     },
     {
       "key": "Wextyso",
-      "name": "给力|天逸",
+      "name": "天逸|4k",
       "type": 3,
       "api": "csp_Wextyso",
       "jar": "https://d.kstore.dev/download/11405/xzgi/大佬改王二/wex.jar",
@@ -464,7 +419,7 @@
     },
     {
       "key": "混合盘",
-      "name": "混合|搜索",
+      "name": "混搜|4k",
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 60,
@@ -476,7 +431,7 @@
     },
     {
       "key": "Panta",
-      "name": "盘Ta|网盘",
+      "name": "盘他|4k",
       "type": 3,
       "api": "csp_Panta",
       "quickSearch": 1,
