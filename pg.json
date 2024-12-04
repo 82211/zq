@@ -19,7 +19,7 @@
       "name": "天逸|配置",
       "type": 3,
       "api": "csp_Wexconfig",
-      "jar": "https://d.kstore.dev/download/11405/xzgi/大佬改王二/wex.jar",
+      "jar": "./pg本地/天逸调用/wex.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0
@@ -121,7 +121,7 @@
       "name": "雷鲸|4k",
       "type": 3,
       "api": "csp_Wexleijing",
-      "jar": "https://d.kstore.dev/download/11405/xzgi/大佬改王二/wex.jar",
+       "jar": "./pg本地/天逸调用/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -413,7 +413,7 @@
       "name": "天逸|4k",
       "type": 3,
       "api": "csp_Wextyso",
-      "jar": "https://d.kstore.dev/download/11405/xzgi/大佬改王二/wex.jar",
+       "jar": "./pg本地/天逸调用/wex.jar",
       "searchable": 1,
       "changeable": 0
     },
