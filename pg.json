@@ -264,6 +264,7 @@
       "type": 3,
       "api": "csp_NewCz",
       "jar": "./摸鱼lib/danmu.php",
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
