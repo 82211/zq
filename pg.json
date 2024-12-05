@@ -803,11 +803,6 @@
       "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
     },
     {
-      "name": "小枫解析",
-      "type": 1,
-      "url": "https://jx.xiaofengtv.com/jx.php?url="
-    },
-    {
       "name": "小米高清",
       "type": 1,
       "url": "https://www.mpanso.com/muou/qilin.php?url="
