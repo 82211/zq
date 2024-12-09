@@ -149,6 +149,15 @@
       "changeable": 1
     },
     {
+      "key": "盘他",
+      "name": "盘他|4K‍",
+      "type": 3,
+      "api": "csp_WexYDpanta",
+      "jar": "./天逸/wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "风中知秋",
       "name": "知秋|解析",
       "type": 3,
@@ -798,8 +807,8 @@
       "url": "https://jx.0v.fit/api.php?url="
     },
     {
-      "name": "腾芒4k",
-      "type": 0,
+      "name": "全网4k",
+      "type": 1,
       "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
     },
     {
@@ -818,12 +827,12 @@
       "url": "https://jx.m3u8.tv/jiexi/?url="
    },
     {
-      "name": "虾米高清",
+      "name": "虾米",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
     },
     {
-      "name": "冰豆高清",
+      "name": "冰豆",
       "type": 0,
       "url": "https://bd.jx.cn/?url="
     },
