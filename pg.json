@@ -149,6 +149,15 @@
       "changeable": 1
     },
     {
+      "key": "盘他",
+      "name": "盘他|4K‍",
+      "type": 3,
+      "api": "csp_WexYDpanta",
+      "jar": "./天逸/wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "风中知秋",
       "name": "知秋|解析",
       "type": 3,
