@@ -797,6 +797,11 @@
   ],
   "parses": [
     {
+      "name": "柒豪4K",
+      "type": 1,
+      "url": "https://jx.0v.fit/api.php?url="
+    },
+    {
       "name": "蝉鸣4k",
       "type": 1,
       "url": "https://jk.123zy.cool/jx/jx.php?url="
