@@ -156,8 +156,8 @@
       }
     },
     {
-      "key": "小米网盘",
-      "name": "小米|4k",
+      "key": "小米至臻网盘",
+      "name": "至臻|4k",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -167,8 +167,8 @@
       "ext": "./pg本地/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
     },
     {
-      "key": "小米uc",
-      "name": "uc|4k",
+      "key": "小米网盘",
+      "name": "小米|4k",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -300,7 +300,7 @@
     },
     {
       "key": "厂长",
-      "name": "厂长┃2k",
+      "name": "厂长|2k",
       "type": 3,
       "api": "csp_NewCz",
       "jar": "./摸鱼lib/moyu.php",
@@ -313,7 +313,7 @@
     },
     {
       "key": "文才弹幕",
-      "name": "文采┃2k",
+      "name": "文采|2k",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "./摸鱼lib/danmu.php",
@@ -326,7 +326,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子┃2k",
+      "name": "瓜子|2k",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "./摸鱼lib/danmu.php",
@@ -336,7 +336,7 @@
     },
     {
       "key": "真心影视",
-      "name": "真心┃2k",
+      "name": "真心|2k",
       "type": 3,
       "api": "csp_WebGZ",
       "jar": "./摸鱼lib/danmu.php",
@@ -346,7 +346,7 @@
     },
     {
       "key": "小苹果弹幕",
-      "name": "苹果┃2k",
+      "name": "苹果|2k",
       "type": 3,
       "api": "csp_Xpg",
       "jar": "./摸鱼lib/danmu.php",
@@ -359,7 +359,7 @@
     },
     {
       "key": "笔触琉璃",
-      "name": "琉璃┃哔哩",
+      "name": "琉璃|哔哩",
       "type": 3,
       "api": "csp_Bilimd",
       "jar": "./摸鱼lib/danmu.php",
