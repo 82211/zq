@@ -114,6 +114,81 @@
       "changeable": 1
     },
     {
+      "key": "TGYunPan",
+      "name": "TG|群组",
+      "type": 3,
+      "api": "csp_TGYunPan",
+      "timeout": 120,
+      "ext": {
+        "token": "./pg本地/tokenm.json",
+        "json": "./pg本地/tgsearch.json",
+        "keywords": "名称,片名,推荐",
+        "tgsearch_url": "http://127.0.0.1:10199",
+        "tgsearch_media_url": "http://127.0.0.1:10199",
+        "channellist": "ydypzyfx,ucpanpan,ucquark",
+        "proxy": "noproxy",
+        "danmu": true
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "TGYunPanLocal",
+      "name": "TG|频道",
+      "type": 3,
+      "api": "csp_TGYunPanLocal",
+      "timeout": 120,
+      "ext": {
+        "token": "./pg本地/tokenm.json",
+        "json": "./pg本地/tgsearch.json",
+        "keywords": "名称,片名,推荐",
+        "tgsearch_url": "http://127.0.0.1:10199",
+        "tgsearch_media_url": "http://127.0.0.1:10199",
+        "channellist": "alyp_4K_Movies|1000,Quark_Movies,dianyingshare,kuakeyun,XiangxiuNB",
+        "proxy": "proxy",
+        "danmu": true
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "小米网盘",
+      "name": "小米|4k",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
+    },
+    {
+      "key": "小米uc",
+      "name": "uc|4k",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$http://ucmi.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
+    },
+    {
+      "key": "蜡笔网盘",
+      "name": "蜡笔|4k",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
+    },
+    {
       "key": "风中知秋",
       "name": "知秋|解析",
       "type": 3,
@@ -346,118 +421,6 @@
         "type": "rect",
         "ratio": 1.77
       }
-    },
-    {
-      "key": "TGYunPan",
-      "name": "TG|群组",
-      "type": 3,
-      "api": "csp_TGYunPan",
-      "timeout": 120,
-      "ext": {
-        "token": "./pg本地/tokenm.json",
-        "json": "./pg本地/tgsearch.json",
-        "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "ydypzyfx,ucpanpan,ucquark,XiangxiuNB",
-        "proxy": "noproxy",
-        "danmu": true
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      }
-    },
-    {
-      "key": "TGYunPanLocal",
-      "name": "TG|频道",
-      "type": 3,
-      "api": "csp_TGYunPanLocal",
-      "timeout": 120,
-      "ext": {
-        "token": "./pg本地/tokenm.json",
-        "json": "./pg本地/tgsearch.json",
-        "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "alyp_4K_Movies|1000,Quark_Movies,dianyingshare,kuakeyun,cloudtianyi,tianyirigeng,tianyi_pd2",
-        "proxy": "proxy",
-        "danmu": true
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      }
-    },
-    {
-      "key": "配置中心",
-      "name": "🌎摸鱼┃配置",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./摸鱼lib/danmu.php",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "玩偶备用弹幕",
-      "name": "玩偶┃4k",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./摸鱼lib/danmu.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://wogg.xxooo.cf",
-        "danmu": true
-      }
-    },
-    {
-      "key": "夸克至臻弹幕",
-      "name": "至臻┃4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./摸鱼lib/danmu.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://mihdr.top",
-        "danmu": true
-      }
-    },
-    {
-      "key": "小米网盘",
-      "name": "小米|4k",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
-    },
-    {
-      "key": "蜡笔网盘",
-      "name": "蜡笔|4k",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
     },
     {
       "key": "Wextyso",
