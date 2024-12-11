@@ -59,7 +59,7 @@
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://127.0.0.1:10199",
         "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Oscar_4Kmovies,tgsearchers",
+        "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,Mbox115|1000,shares_115|1000,cloudtianyi,tianyirigeng,tianyi_pd2,ydypzyfx,guaguale115,Channel_Shares_115,hao115,ucpanpan,ucquark,alyp_4K_Movies|1000,Quark_Movies",
         "proxy": "noproxy",
         "douban": "./pg本地/douban.json",
         "danmu": false
@@ -81,7 +81,7 @@
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://127.0.0.1:10199",
         "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "hao115|1000,guaguale115,Channel_Shares_115,vip115hot,hao115,ucpanpan,ucquark,alyp_4K_Movies|1000,Quark_Movies,Aliyun_4K_",
+        "channellist": "hao115|1000",
         "proxy": "noproxy",
         "danmu": true
       },
