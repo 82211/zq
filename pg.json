@@ -771,14 +771,19 @@
   ],
   "parses": [
     {
-      "name": "蝉鸣1",
+      "name": "全网4k",
       "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url="
+      "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
     },
     {
-      "name": "蝉鸣4k",
+      "name": "虎斑4k",
+      "type": 0,
+      "url": " http://103.117.123.193:1980/players/?url="
+    },
+    {
+      "name": "qiqi4k",
       "type": 1,
-      "url": "https://jk.123zy.cool/jx/jx.php?url="
+      "url": "http://1.94.221.189:88/algorithm.php?url="
     },
     {
       "name": "六趣4k",
@@ -786,9 +791,14 @@
       "url": "https://jx.0v.fit/api.php?url="
     },
     {
-      "name": "全网4k",
+      "name": "虎斑3",
+      "type": 0,
+      "url": "     http://154.44.26.196/player/qu.php?v="
+    },
+    {
+      "name": "巧技2",
       "type": 1,
-      "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
     },
     {
       "name": "小米高清",
@@ -804,7 +814,7 @@
       "name": "m3高清",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
-   },
+    },
     {
       "name": "虾米",
       "type": 0,
@@ -841,7 +851,7 @@
           "xigua"
         ]
       }
-    }  
+    }
   ],
   "flags": [
     "youku",
