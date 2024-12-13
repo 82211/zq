@@ -200,6 +200,17 @@
     "ext": "./pg本地/tokenm.json$$$http://feimaouc.cloud:666/$$$noproxy$$$1$$$./pg本地/wogg.json$$$"
     },
     {
+    "key": "六趣",
+    "name": "六趣|4k",
+    "type": 3,
+    "api": "csp_Wobg",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "timeout": 60,
+    "ext": "./pg本地/tokenm.json$$$https://wp.0v.fit/$$$noproxy$$$1$$$./pg本地/wogg.json$$$"
+    },
+    {
       "key": "风中知秋",
       "name": "知秋|解析",
       "type": 3,
@@ -267,7 +278,7 @@
     },
     {
       "key": "drpyS_人人视频",
-      "name": "人人|视频",
+      "name": "人人|4k",
       "type": 4,
       "api": "http://111.229.188.154:5757/api/普天同",
       "searchable": 1,
