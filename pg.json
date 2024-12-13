@@ -34,8 +34,8 @@
         "token": "./pg本地/tokenm.json",
         "json": "./pg本地/tgsearch.json",
         "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
+        "tgsearch_url": "http://tg.fish2018.us.kg",
+        "tgsearch_media_url": "http://tg.fish2018.us.kg",
         "channellist": "shares_115|1000,Mbox115|1000,shares_115|1000,guaguale115,Channel_Shares_115,hao115,hao115|1000,Mbox115|1000",
         "proxy": "noproxy",
         "douban": "./pg本地/douban.json",
@@ -123,8 +123,8 @@
         "token": "./pg本地/tokenm.json",
         "json": "./pg本地/tgsearch.json",
         "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
+        "tgsearch_url": "http://tg.fish2018.us.kg",
+        "tgsearch_media_url": "http://tg.fish2018.us.kg",
         "channellist": "ydypzyfx,ucpanpan,ucquark",
         "proxy": "noproxy",
         "danmu": true
@@ -144,8 +144,8 @@
         "token": "./pg本地/tokenm.json",
         "json": "./pg本地/tgsearch.json",
         "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
+        "tgsearch_url": "http://tg.fish2018.us.kg",
+        "tgsearch_media_url": "http://tg.fish2018.us.kg",
         "channellist": "alyp_4K_Movies|1000,Quark_Movies,dianyingshare,kuakeyun,XiangxiuNB",
         "proxy": "proxy",
         "danmu": true
@@ -187,6 +187,17 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
+    },
+    {
+    "key": "肥猫UC",
+    "name": "肥猫|4k",
+    "type": 3,
+    "api": "csp_Wobg",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "timeout": 60,
+    "ext": "./pg本地/tokenm.json$$$http://feimaouc.cloud:666/$$$noproxy$$$1$$$./pg本地/wogg.json$$$"
     },
     {
       "key": "风中知秋",
@@ -404,7 +415,7 @@
         "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
         "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
         "codecs": "",
-        "proxy": "proxy",
+        "proxy": "noproxy",
         "danmu": true
       },
       "style": {
