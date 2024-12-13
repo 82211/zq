@@ -208,7 +208,7 @@
     "changeable": 1,
     "filterable": 1,
     "timeout": 60,
-    "ext": "./pg本地/tokenm.json$$$https://wp.0v.fit/$$$noproxy$$$1$$$./pg本地/wogg.json$$$"
+    "ext": "./pg本地/tokenm.json$$$https://wp.0v.fit/$$$proxy$$$1$$$./pg本地/wogg.json$$$"
     },
     {
       "key": "风中知秋",
