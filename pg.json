@@ -263,16 +263,6 @@
       "ext": ""
     },
     {
-      "key": "摸鱼瓜子",
-      "name": "瓜子|2K弹",
-      "type": 3,
-      "api": "./摸鱼lib/apiv467drpy.min.js",
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "./摸鱼lib/guazi.js"
-    },
-    {
       "key": "csp_zhufan",
       "name": "追饭|2k",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar",
@@ -300,7 +290,7 @@
     },
     {
       "key": "厂长",
-      "name": "厂长|2k",
+      "name": "厂长|1k",
       "type": 3,
       "api": "csp_NewCz",
       "jar": "./摸鱼lib/moyu.php",
@@ -309,11 +299,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "https://www.czzyvideo.com/"
     },
     {
       "key": "文才弹幕",
-      "name": "文采|2k",
+      "name": "文采|1k",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "./摸鱼lib/danmu.php",
@@ -326,7 +316,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子|2k",
+      "name": "瓜子|1k",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "./摸鱼lib/danmu.php",
@@ -336,7 +326,7 @@
     },
     {
       "key": "真心影视",
-      "name": "真心|2k",
+      "name": "真心|1k",
       "type": 3,
       "api": "csp_WebGZ",
       "jar": "./摸鱼lib/danmu.php",
@@ -346,7 +336,7 @@
     },
     {
       "key": "小苹果弹幕",
-      "name": "苹果|2k",
+      "name": "苹果|1k",
       "type": 3,
       "api": "csp_Xpg",
       "jar": "./摸鱼lib/danmu.php",
@@ -781,14 +771,19 @@
   ],
   "parses": [
     {
-      "name": "蝉鸣1",
+      "name": "全网4k",
       "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url="
+      "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
     },
     {
-      "name": "蝉鸣4k",
+      "name": "虎斑4k",
+      "type": 0,
+      "url": " http://103.117.123.193:1980/players/?url="
+    },
+    {
+      "name": "qiqi4k",
       "type": 1,
-      "url": "https://jk.123zy.cool/jx/jx.php?url="
+      "url": "http://1.94.221.189:88/algorithm.php?url="
     },
     {
       "name": "六趣4k",
@@ -796,9 +791,14 @@
       "url": "https://jx.0v.fit/api.php?url="
     },
     {
-      "name": "全网4k",
+      "name": "虎斑3",
+      "type": 0,
+      "url": "     http://154.44.26.196/player/qu.php?v="
+    },
+    {
+      "name": "巧技2",
       "type": 1,
-      "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
     },
     {
       "name": "小米高清",
@@ -814,7 +814,7 @@
       "name": "m3高清",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
-   },
+    },
     {
       "name": "虾米",
       "type": 0,
@@ -851,7 +851,7 @@
           "xigua"
         ]
       }
-    }  
+    }
   ],
   "flags": [
     "youku",
