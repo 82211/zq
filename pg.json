@@ -1,5 +1,5 @@
 {
-	"spider":"./pg本地/pg.jar",
+	"spider":"./lib/pg.jar",
 	"sites":[
     {
       "key": "豆瓣",
@@ -9,7 +9,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./pg本地/tokenm.json$$$./pg本地/douban.json"
+      "ext": "./lib/tokenm.json$$$./lib/douban.json"
     },
     {
       "key": "网盘配置",
@@ -18,7 +18,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./pg本地/tokenm.json",
+      "ext": "./lib/tokenm.json",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -44,7 +44,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 120,
-      "ext": "./pg本地/tokenm.json$$$./pg本地/115share.txt$$$db$$$1",
+      "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -57,14 +57,14 @@
       "api": "csp_TGDouban",
       "timeout": 120,
       "ext": {
-        "token": "./pg本地/tokenm.json",
-        "json": "./pg本地/tgsearch.json",
+        "token": "./lib/tokenm.json",
+        "json": "./lib/tgsearch.json",
         "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://tg.fish2018.us.kg",
-        "tgsearch_media_url": "http://tg.fish2018.us.kg",
+        "tgsearch_url": "http://127.0.0.1:10199",
+        "tgsearch_media_url": "http://127.0.0.1:10199",
         "channellist": "shares_115|1000,Mbox115|1000,shares_115|1000,guaguale115,Channel_Shares_115,hao115,hao115|1000,Mbox115|1000",
         "proxy": "noproxy",
-        "douban": "./pg本地/douban.json",
+        "douban": "./lib/douban.json",
         "danmu": false
       },
       "style": {
@@ -81,7 +81,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./pg本地/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "Mogg",
@@ -92,7 +92,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$http://mogg.小胡.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$MOGG"
+      "ext": "./lib/tokenm.json$$$http://mogg.小胡.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
     },
     {
       "key": "yydsys",
@@ -103,7 +103,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$WNLG"
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"
     },
     {
       "key": "雷鲸",
@@ -132,7 +132,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
+      "ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
     },
     {
       "key": "小米网盘",
@@ -143,7 +143,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$http://ucmi.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$XIAOMI"
+      "ext": "./lib/tokenm.json$$$http://ucmi.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
     },
     {
       "key": "蜡笔网盘",
@@ -154,7 +154,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./pg本地/wogg.json$$$LABI"
+      "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
     },
     {
     "key": "肥猫UC",
@@ -165,7 +165,7 @@
     "changeable": 1,
     "filterable": 1,
     "timeout": 60,
-    "ext": "./pg本地/tokenm.json$$$http://feimaouc.cloud:666/$$$noproxy$$$1$$$./pg本地/wogg.json$$$"
+    "ext": "./lib/tokenm.json$$$http://feimaouc.cloud:666/$$$noproxy$$$1$$$./lib/wogg.json$$$"
     },
     {
       "key": "TGYunPan",
@@ -174,11 +174,11 @@
       "api": "csp_TGYunPan",
       "timeout": 120,
       "ext": {
-        "token": "./pg本地/tokenm.json",
-        "json": "./pg本地/tgsearch.json",
+        "token": "./lib/tokenm.json",
+        "json": "./lib/tgsearch.json",
         "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://tg.fish2018.us.kg",
-        "tgsearch_media_url": "http://tg.fish2018.us.kg",
+        "tgsearch_url": "http://127.0.0.1:10199",
+        "tgsearch_media_url": "http://127.0.0.1:10199",
         "channellist": "ydypzyfx,ucpanpan,ucquark",
         "proxy": "noproxy",
         "danmu": true
@@ -195,11 +195,11 @@
       "api": "csp_TGYunPanLocal",
       "timeout": 120,
       "ext": {
-        "token": "./pg本地/tokenm.json",
-        "json": "./pg本地/tgsearch.json",
+        "token": "./lib/tokenm.json",
+        "json": "./lib/tgsearch.json",
         "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://tg.fish2018.us.kg",
-        "tgsearch_media_url": "http://tg.fish2018.us.kg",
+        "tgsearch_url": "http://127.0.0.1:10199",
+        "tgsearch_media_url": "http://127.0.0.1:10199",
         "channellist": "alyp_4K_Movies|1000,Quark_Movies,dianyingshare,kuakeyun,XiangxiuNB",
         "proxy": "proxy",
         "danmu": true
@@ -213,37 +213,41 @@
       "key": "清风弹幕",
       "name": "清风|4k",
       "type": 3,
-      "api": "./摸鱼lib/apiv467drpy.min.js",
+      "api": "./影/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./摸鱼lib/qingfeng.js"
+      "ext": "./影/腾讯弹幕.js"
     },
     {
       "key": "小满万全",
       "name": "果果|4k",
       "type": 3,
-      "api": "./摸鱼lib/apiv467drpy.min.js",
+      "api": "./影/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "./摸鱼lib/mgtv.js"
+      "ext": "./影/芒果弹幕.js"
     },
     {
-      "key": "guoguo",
-      "name": "米芒|4k",
+      "key": "哔哩弹幕",
+      "name": "哔哩|4k",
       "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar",
+      "api": "csp_Bilimd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": {
+        "cookie": "https://gh.llkk.cc/https://github.com/82211/xz/blob/main/lib/blbl.txt"
+      },
+      "timeout": 10
     },
     {
       "key": "drpyS_人人视频",
@@ -280,92 +284,15 @@
       "jar": "./影/nx4.jar"
     },
     {
-      "key": "厂长",
-      "name": "厂长|1k",
-      "type": 3,
-      "api": "csp_NewCz",
-      "jar": "./摸鱼lib/moyu.php",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
-    },
-    {
-      "key": "文才弹幕",
-      "name": "文采|1k",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "./摸鱼lib/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "瓜子影视",
-      "name": "瓜子|1k",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "./摸鱼lib/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "真心影视",
-      "name": "真心|1k",
-      "type": 3,
-      "api": "csp_WebGZ",
-      "jar": "./摸鱼lib/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "小苹果弹幕",
-      "name": "苹果|1k",
-      "type": 3,
-      "api": "csp_Xpg",
-      "jar": "./摸鱼lib/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "笔触琉璃",
-      "name": "琉璃|哔哩",
-      "type": 3,
-      "api": "csp_Bilimd",
-      "jar": "./摸鱼lib/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-      "type": "rect",
-              "ratio": 1.433
-               },
-      "ext": {
-                "cookie": "file://tvbox/bilibili.txt"
-            },
-            "timeout": 10
-    },
-    {
       "key": "hipy_js_4k剧院",
       "name": "剧院|2k",
       "type": 3,
-      "api": "./磁力/lan.js",
+      "api": "./影/lan.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./磁力/4k剧院.js"
+      "ext": "./影/4k剧院.js"
     },
     {
       "key": "bili",
@@ -390,8 +317,8 @@
       "changeable": 0,
       "timeout": 120,
       "ext": {
-        "token": "./pg本地/tokenm.json",
-        "json": "./pg本地/youtube.json",
+        "token": "./lib/tokenm.json",
+        "json": "./lib/youtube.json",
         "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
         "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
         "codecs": "",
@@ -421,7 +348,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json",
+      "ext": "./lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -433,7 +360,7 @@
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json",
+      "ext": "./lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -448,7 +375,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./pg本地/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
+      "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
