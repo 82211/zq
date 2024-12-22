@@ -168,6 +168,17 @@
     "ext": "./lib/tokenm.json$$$http://feimaouc.cloud:666/$$$noproxy$$$1$$$./lib/wogg.json$$$"
     },
     {
+    "key": "奥秘",
+    "name": "奥秘|4k",
+    "type": 3,
+    "api": "csp_Wobg",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "timeout": 60,
+    "ext": "./lib/tokenm.json$$$https://vip.omii.top/$$$noproxy$$$1$$$./lib/wogg.json$$$"
+    },
+    {
       "key": "TGYunPan",
       "name": "TG|群组",
       "type": 3,
@@ -249,14 +260,6 @@
         "cookie": "https://gh.llkk.cc/https://github.com/82211/xz/blob/main/lib/blbl.txt"
       },
       "timeout": 10
-    },
-    {
-      "key": "drpyS_人人视频",
-      "name": "人人|4k",
-      "type": 4,
-      "api": "http://111.229.188.154:5757/api/普天同",
-      "searchable": 1,
-      "ext": ""
     },
     {
       "key": "csp_zhufan",
