@@ -402,6 +402,12 @@
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
     },
     {
+      "name": "IPTV直播",
+      "url": "https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "type": 10,
+      "remark": "接口由QQ：1839331928维护"
+    },
+    {
       "name": "电视IPV6",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
