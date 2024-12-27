@@ -397,15 +397,9 @@
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "开心IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
-    },
-    {
       "name": "IPTV直播",
-      "url": "https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
-      "type": 10,
-      "remark": "接口由QQ：1839331928维护"
+      "type": 0,
+      "url": "https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
     },
     {
       "name": "电视IPV6",
@@ -416,29 +410,14 @@
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "肥羊IPV6",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/11405/zb.m3u"
-    },
-    {
       "name": "欧歌IPV6",
       "type": 0,
       "url": "https://xn--pggp-rp5imh.v.nxog.top/m//tv/"
     },
     {
-      "name": "明明IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
-    },
-    {
       "name": "日后IPV6",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk"
-    },
-    {
-      "name": "备用IPV6",
-      "type": 0,
-      "url": "http://www.iptv6.icu:5212/f/mPLia/mytv.txt"
     },
     {
       "name": "肥羊TPTV",
@@ -466,47 +445,12 @@
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "肥羊B站",
-      "type": 0,
-      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bililive.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "肥羊虎牙",
       "type": 0,
       "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/huyayqk.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "肥羊斗鱼",
-      "type": 0,
-      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/douyuyqk.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "肥羊YY轮播",
-      "type": 0,
-      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/yylunbo.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=live&proxy=&url="
-          ]
-        }
-      ]
     }
   ],
   "doh": [
