@@ -262,6 +262,28 @@
       "timeout": 10
     },
     {
+      "key": "皮皮虾",
+      "name": "皮皮虾|4k",
+      "type": 3,
+      "api": "./影/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./影/皮皮虾.js"
+    },
+    {
+      "key": "光影",
+      "name": "光影|4k",
+      "type": 3,
+      "api": "./影/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./影/光影.js"
+    },
+    {
       "key": "csp_zhufan",
       "name": "追饭|4k",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar",
