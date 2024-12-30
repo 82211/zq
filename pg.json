@@ -3,7 +3,7 @@
 	"sites":[
     {
       "key": "豆瓣",
-      "name": "蝉鸣|影视",
+      "name": "我的|影视",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -328,21 +328,6 @@
       "ext": {
         "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
         "cookie": "https://gh.llkk.cc/https://github.com/82211/xz/blob/main/lib/blbl.txt"
-      }
-    },
-    {
-      "key": "csp_zhufan",
-      "name": "追饭|4k",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "type": 3,
-      "api": "csp_MiTo",
-      "ext": {
-        "url": "https://zhuijuwang.net/",
-        "dataKey": "aassddwwxxllsx1x",
-        "playKey": "bbssqdbbssll25sx",
-        "version": "1.1.0"
       }
     },
     {
