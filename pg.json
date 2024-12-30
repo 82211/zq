@@ -36,7 +36,7 @@
     },
     {
       "key": "115Share",
-      "name": "115|云盘",
+      "name": "115|4k",
       "type": 3,
       "api": "csp_P115Share",
       "searchable": 1,
@@ -339,7 +339,7 @@
       "type": 3,
       "api": "csp_MiTo",
       "ext": {
-        "url": "http://xiafan.zhuiju666.com",
+        "url": "https://zhuijuwang.net/",
         "dataKey": "aassddwwxxllsx1x",
         "playKey": "bbssqdbbssll25sx",
         "version": "1.1.0"
@@ -369,7 +369,7 @@
     },
     {
       "key": "Bdys_spider",
-      "name": "修罗|磁力",
+      "name": "修罗|4k",
       "api": "csp_Bdys01",
       "type": 3,
       "filterable": 1,
@@ -389,7 +389,7 @@
     },
     {
       "key": "UCShare",
-      "name": "UC|分享",
+      "name": "UC|4k",
       "type": 3,
       "api": "csp_UCShare",
       "searchable": 1,
@@ -405,7 +405,7 @@
     },
     {
       "key": "QuarkShare",
-      "name": "夸克|分享",
+      "name": "夸克|4k",
       "type": 3,
       "api": "csp_QuarkShare",
       "searchable": 1,
@@ -421,7 +421,7 @@
     },
     {
       "key": "AliShare",
-      "name": "阿里|分享",
+      "name": "阿里|4k",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
