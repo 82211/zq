@@ -44,7 +44,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
+      "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$./lib/115.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -179,6 +179,17 @@
     "ext": "./lib/tokenm.json$$$https://vip.omii.top/$$$noproxy$$$1$$$./lib/wogg.json$$$"
     },
     {
+    "key": "失眠的夜",
+    "name": "白嫖|4k",
+    "type": 3,
+    "api": "csp_Wobg",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "timeout": 60,
+    "ext": "./lib/tokenm.json$$$https://smdyo.top/$$$noproxy$$$1$$$./lib/wogg.json$$$"
+    },
+    {
       "key": "TGYunPan",
       "name": "TG|群组",
       "type": 3,
@@ -190,7 +201,7 @@
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://127.0.0.1:10199",
         "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "ydypzyfx,ucpanpan,ucquark",
+        "channellist": "ydypzyfx,ucpanpan,ucquark,leoziyuan",
         "proxy": "noproxy",
         "danmu": true
       },
@@ -212,6 +223,29 @@
         "tgsearch_url": "http://127.0.0.1:10199",
         "tgsearch_media_url": "http://127.0.0.1:10199",
         "channellist": "alyp_4K_Movies|1000,Quark_Movies,dianyingshare,kuakeyun,XiangxiuNB",
+        "proxy": "proxy",
+        "danmu": true
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "Youtube",
+      "name": "Youtube",
+      "type": 3,
+      "api": "csp_Youtube",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 120,
+      "ext": {
+        "token": "./lib/tokenm.json",
+        "json": "./lib/youtube.json",
+        "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+        "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+        "codecs": "",
         "proxy": "proxy",
         "danmu": true
       },
@@ -284,6 +318,19 @@
       "ext": "./影/光影.js"
     },
     {
+      "key": "bili",
+      "name": "B站|4k",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+        "cookie": "https://gh.llkk.cc/https://github.com/82211/xz/blob/main/lib/blbl.txt"
+      }
+    },
+    {
       "key": "csp_zhufan",
       "name": "追饭|4k",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar",
@@ -310,51 +357,26 @@
       "jar": "./影/nx4.jar"
     },
     {
-      "key": "hipy_js_4k剧院",
-      "name": "剧院|2k",
+      "key": "校长影视",
+      "name": "校长|4k",
       "type": 3,
-      "api": "./影/lan.js",
+      "api": "csp_XiaoZhang",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+    },
+    {
+      "key": "Bdys_spider",
+      "name": "修罗|磁力",
+      "api": "csp_Bdys01",
+      "type": 3,
+      "filterable": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./影/4k剧院.js"
-    },
-    {
-      "key": "bili",
-      "name": "B站|4k",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-        "cookie": "https://gh.llkk.cc/https://github.com/82211/xz/blob/main/lib/blbl.txt"
-      }
-    },
-    {
-      "key": "Youtube",
-      "name": "Youtube",
-      "type": 3,
-      "api": "csp_Youtube",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "timeout": 120,
-      "ext": {
-        "token": "./lib/tokenm.json",
-        "json": "./lib/youtube.json",
-        "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-        "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-        "codecs": "",
-        "proxy": "proxy",
-        "danmu": true
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      }
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.xlys01.com/$$$noproxy$$$1"
     },
     {
       "key": "Wextyso",
@@ -364,6 +386,54 @@
        "jar": "./天逸/wex.jar",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "UCShare",
+      "name": "UC|分享",
+      "type": 3,
+      "api": "csp_UCShare",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "QuarkShare",
+      "name": "夸克|分享",
+      "type": 3,
+      "api": "csp_QuarkShare",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/quarkshare.txt",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "AliShare",
+      "name": "阿里|分享",
+      "type": 3,
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
     },
     {
       "key": "Funletu",
