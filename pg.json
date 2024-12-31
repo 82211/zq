@@ -179,6 +179,22 @@
     "ext": "./lib/tokenm.json$$$https://vip.omii.top/$$$noproxy$$$1$$$./lib/wogg.json$$$"
     },
     {
+      "key": "虎斑",
+      "name": "虎斑｜4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://wp.huban.xyz",
+        "danmu": true
+      }
+    },
+    {
     "key": "失眠的夜",
     "name": "白嫖|4k",
     "type": 3,
