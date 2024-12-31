@@ -29,7 +29,7 @@
       "name": "天逸|配置",
       "type": 3,
       "api": "csp_Wexconfig",
-      "jar": "./天逸/wex.jar",
+      "jar": "./xs/wex.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0
@@ -274,31 +274,31 @@
       "key": "清风弹幕",
       "name": "清风|4k",
       "type": 3,
-      "api": "./影/drpy2.min.js",
+      "api": "./xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./影/腾讯弹幕.js"
+      "ext": "./xs/腾讯弹幕.js"
     },
     {
       "key": "小满万全",
       "name": "果果|4k",
       "type": 3,
-      "api": "./影/drpy2.min.js",
+      "api": "./xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "./影/芒果弹幕.js"
+      "ext": "./xs/芒果弹幕.js"
     },
     {
       "key": "哔哩弹幕",
       "name": "哔哩|4k",
       "type": 3,
       "api": "csp_Bilimd",
-	"jar": "https://gh.llkk.cc/https://github.com/82211/xz/blob/main/spider.jar",
+      "jar": "./xs/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -307,7 +307,7 @@
         "ratio": 1.597
       },
       "ext": {
-        "cookie": "https://gh.llkk.cc/https://github.com/82211/xz/blob/main/lib/blbl.txt"
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
       },
       "timeout": 10
     },
@@ -315,23 +315,23 @@
       "key": "皮皮虾",
       "name": "皮皮虾|4k",
       "type": 3,
-      "api": "./影/drpy2.min.js",
+      "api": "./xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./影/皮皮虾.js"
+      "ext": "./xs/皮皮虾.js"
     },
     {
       "key": "光影",
       "name": "光影|4k",
       "type": 3,
-      "api": "./影/drpy2.min.js",
+      "api": "./xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./影/光影.js"
+      "ext": "./xs/光影.js"
     },
     {
       "key": "bili",
@@ -343,7 +343,7 @@
       "changeable": 0,
       "ext": {
         "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-        "cookie": "https://gh.llkk.cc/https://github.com/82211/xz/blob/main/lib/blbl.txt"
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
       }
     },
     {
@@ -354,8 +354,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./影/影港.json",
-      "jar": "./影/nx4.jar"
+      "ext": "./xs/影港.json",
+      "jar": "./xs/nx4.jar"
     },
     {
       "key": "校长影视",
@@ -373,7 +373,7 @@
       "name": "天逸|4k",
       "type": 3,
       "api": "csp_Wextyso",
-       "jar": "./天逸/wex.jar",
+       "jar": "./xs/wex.jar",
       "searchable": 1,
       "changeable": 0
     },
