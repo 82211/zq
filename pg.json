@@ -734,6 +734,16 @@
   ],
   "parses": [
     {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
       "name": "全网4k",
       "type": 1,
       "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
@@ -754,6 +764,11 @@
       "url": "https://jx.0v.fit/api.php?url="
     },
     {
+      "name": "全网",
+      "type": 1,
+      "url": " http://jx.hjfggzs.top:80/api/diy/?key=vCCUQUy5UglzLBXK3W&url="
+    },
+    {
       "name": "虎斑3",
       "type": 0,
       "url": "     http://154.44.26.196/player/qu.php?v="
@@ -764,17 +779,12 @@
       "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
     },
     {
-      "name": "小米高清",
-      "type": 1,
-      "url": "https://www.mpanso.com/muou/qilin.php?url="
-    },
-    {
-      "name": "80高清",
+      "name": "80",
       "type": 0,
       "url": "https://www.8090g.cn/jiexi/?url="
     },
     {
-      "name": "m3高清",
+      "name": "m3",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
