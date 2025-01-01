@@ -51,28 +51,6 @@
       }
     },
     {
-      "key": "TGDouban",
-      "name": "TG|豆瓣",
-      "type": 3,
-      "api": "csp_TGDouban",
-      "timeout": 120,
-      "ext": {
-        "token": "./lib/tokenm.json",
-        "json": "./lib/tgsearch.json",
-        "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "shares_115|1000,Mbox115|1000,shares_115|1000,guaguale115,Channel_Shares_115,hao115,hao115|1000,Mbox115|1000",
-        "proxy": "noproxy",
-        "douban": "./lib/douban.json",
-        "danmu": false
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 0.7
-      }
-    },
-    {
       "key": "Wogg",
       "name": "玩偶|4k",
       "type": 3,
@@ -106,22 +84,26 @@
       "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"
     },
     {
-      "key": "雷鲸",
-      "name": "雷鲸|4k",
+      "key": "小米网盘",
+      "name": "小米|4k",
       "type": 3,
-      "api": "csp_Wexleijing",
-       "jar": "./天逸/wex.jar",
-      "searchable": 1,
-      "changeable": 1
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$http://ucmi.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
     },
     {
-      "key": "盘他",
-      "name": "移动|4K‍",
+      "key": "Guanying",
+      "name": "观影|4k",
       "type": 3,
-      "api": "csp_WexYDpanta",
-      "jar": "./天逸/wex.jar",
-      "searchable": 1,
-      "changeable": 1
+      "api": "csp_Guanying",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.gyg.la$$$noproxy$$$1$$$./lib/gy.txt"
     },
     {
       "key": "小米至臻网盘",
@@ -133,17 +115,6 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-    },
-    {
-      "key": "小米网盘",
-      "name": "小米|4k",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$http://ucmi.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
     },
     {
       "key": "蜡笔网盘",
@@ -179,20 +150,15 @@
     "ext": "./lib/tokenm.json$$$https://vip.omii.top/$$$noproxy$$$1$$$./lib/wogg.json$$$"
     },
     {
-      "key": "虎斑",
-      "name": "虎斑｜4K",
+      "key": "Huban",
+      "name": "虎斑|4k",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "http://wp.huban.xyz",
-        "danmu": true
-      }
+      "timeout": 60,
+      "ext": "./lib/token.json$$$https://wp.huban.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$U_HUBAN"
     },
     {
     "key": "失眠的夜",
@@ -204,6 +170,57 @@
     "filterable": 1,
     "timeout": 60,
     "ext": "./lib/tokenm.json$$$https://smdyo.top/$$$noproxy$$$1$$$./lib/wogg.json$$$"
+    },
+    {
+      "key": "Libvio",
+      "name": "立播|4k",
+      "type": 3,
+      "api": "csp_Libvio",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
+    },
+    {
+      "key": "雷鲸",
+      "name": "雷鲸|4k",
+      "type": 3,
+      "api": "csp_Wexleijing",
+       "jar": "./天逸/wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "盘他",
+      "name": "移动|4K‍",
+      "type": 3,
+      "api": "csp_WexYDpanta",
+      "jar": "./天逸/wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "TGDouban",
+      "name": "TG|豆瓣",
+      "type": 3,
+      "api": "csp_TGDouban",
+      "timeout": 120,
+      "ext": {
+        "token": "./lib/tokenm.json",
+        "json": "./lib/tgsearch.json",
+        "keywords": "名称,片名,推荐",
+        "tgsearch_url": "http://127.0.0.1:10199",
+        "tgsearch_media_url": "http://127.0.0.1:10199",
+        "channellist": "shares_115|1000,Mbox115|1000,shares_115|1000,guaguale115,Channel_Shares_115,hao115,hao115|1000,Mbox115|1000",
+        "proxy": "noproxy",
+        "douban": "./lib/douban.json",
+        "danmu": false
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 0.7
+      }
     },
     {
       "key": "TGYunPan",
@@ -490,6 +507,16 @@
       "ua": "okhttp/3.15",
       "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "范明IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+    },
+    {
+      "name": "网友IPV6",
+      "type": 0,
+      "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt"
     },
     {
       "name": "欧歌IPV6",
