@@ -136,7 +136,7 @@
     "changeable": 1,
     "filterable": 1,
     "timeout": 60,
-    "ext": "./lib/tokenm.json$$$http://feimaouc.cloud:666/$$$noproxy$$$1$$$./lib/wogg.json$$$"
+    "ext": "./lib/tokenm.json$$$http://1.95.79.193/$$$noproxy$$$1$$$./lib/wogg.json$$$"
     },
     {
     "key": "奥秘",
@@ -187,7 +187,7 @@
       "name": "雷鲸|4k",
       "type": 3,
       "api": "csp_Wexleijing",
-       "jar": "./天逸/wex.jar",
+       "jar": "./xs/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -196,7 +196,7 @@
       "name": "移动|4K‍",
       "type": 3,
       "api": "csp_WexYDpanta",
-      "jar": "./天逸/wex.jar",
+      "jar": "./xs/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -787,6 +787,11 @@
       "url": "Sequence"
     },
     {
+      "name": "优选4k",
+      "type": 1,
+      "url": "http://1.94.221.189:88/algorithm.php?url="
+    },
+    {
       "name": "全网4k",
       "type": 1,
       "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
@@ -807,7 +812,7 @@
       "url": "https://jx.0v.fit/api.php?url="
     },
     {
-      "name": "全网",
+      "name": "全网|4k",
       "type": 1,
       "url": " http://jx.hjfggzs.top:80/api/diy/?key=vCCUQUy5UglzLBXK3W&url="
     },
